@@ -1,0 +1,14 @@
+{
+  "name": "speak-the-number",
+  "version": "1.0.0",
+  "description": "Convert numbers to words",
+  "scripts": {
+    
+  },
+  "author": "Deniz Ozger denizozger@gmail.com",
+  "license": "UNLICENSED",
+  "devDependencies": {
+    "chai": "^3.5.0",
+    "mocha": "^3.0.2"
+  }
+}
