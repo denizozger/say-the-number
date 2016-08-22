@@ -164,7 +164,6 @@
                 if (threeDigitNumber.text) {
                     text += threeDigitNumber.text + ' ' + thousands[remainingDigitCount] + ' ';
                 }
-
             }
 
             return text.trim();
