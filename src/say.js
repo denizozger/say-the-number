@@ -53,7 +53,6 @@
         return arrayInReverse.map(reverseString).reverse();
     }
 
-    // 
     /**
      * Create a ThreeDigitNumber array for a given number
      *
@@ -90,7 +89,6 @@
             } 
 
             // if hundreds digit is 0, 'and' will always be appended
-            console.log(this.numberStr)
             if (this.numberStr.length > 1 && this.getHundreds() === 0) {
                 text += 'and ';
             }
